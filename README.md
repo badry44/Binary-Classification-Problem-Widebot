@@ -1,6 +1,8 @@
 # Binary-Classification-Problem-Widebot
 
-#Task notes and observations 
+#Task-notes-and-observations 
+
+
 First of all I have put my requirements  libraries  in the submission For this task since I had imported sklearn,tensorflow, numpy,pandas, matplotlib so you need to have this libraries first 
 
 In task 2 first phase is the data preprocessing 
